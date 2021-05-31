@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @zuleinis
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning iOS development with Swift
-- 📫 LinkedIn: zuleinisramos
+- 👋 Hi, I’m @zuleinis!
+- 📓 I'm a student at the University of Puerto Rico at Mayagüez.
+- 👀 I’m interested in mobile and web development.
+- 🌱 I’m currently learning iOS development with Swift.
+- 👥 LinkedIn: zuleinisramos
 - ✨ Twitter: zuleinisk
 
 <!---
