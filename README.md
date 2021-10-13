@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zuleinis!
 - 📓 I'm a Computer Science student at the University of Puerto Rico at Mayagüez.
 - 👀 I’m interested in front-end development and design.
-- 🌱 I’m currently learning iOS development with Swift.
+- 🌱 I’m currently learning Java.
 - 👥 LinkedIn: zuleinisramos
 - ✨ Twitter: zuleinisk
 
