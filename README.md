@@ -2,7 +2,7 @@
 - 📓 I'm a Computer Science student at the University of Puerto Rico at Mayagüez.
 - 👀 I’m interested in front-end and mobile development, production, and design.
 - 🌱 I’m currently learning android development.
-- ✨ My current obsessions include music, plants, video games and astrology!
+- ✨ My current obsessions include music, plants, video games, and astrology!
 - 👥 LinkedIn: zuleinisramos
 - 🐦 Twitter: venuz_fly
 
