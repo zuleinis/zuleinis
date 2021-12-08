@@ -3,8 +3,7 @@
 - 👀 I’m interested in front-end and mobile development, production, and design.
 - 🌱 I’m currently learning android development.
 - ✨ My current obsessions include music, plants, video games, and astrology!
-- 👥 LinkedIn: zuleinisramos
-- 🐦 Twitter: venuz_fly
+- 👥 LinkedIn: [zuleinisramos](https://www.linkedin.com/in/zuleinisramos/)
 
 <!---
 zuleinis/zuleinis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
