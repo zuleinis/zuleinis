@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuleinis! (she/her)
 - 📓 I'm a Computer Science student at the University of Puerto Rico at Mayagüez.
-- 👀 I’m interested in front-end and mobile development, and design.
+- 👀 I’m interested in front-end and mobile development, production, and design.
 - 🌱 I’m currently learning android development.
 - ✨ My current obsessions include music, plants, video games and astrology!
 - 👥 LinkedIn: zuleinisramos
